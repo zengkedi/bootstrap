@@ -1,0 +1,6 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "files.autoSave": "onWindowChange",
+    "editor.minimap.enabled": false,
+    "editor.linkedEditing": true
+}

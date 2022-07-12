@@ -16,3 +16,9 @@ $ cp -r dotfiles/. ~/
 You can run these bash scripts individually and
 also inspect the code. These are all optional but
 can be run on a clean Debian install.
+
+## vscode
+
+```bash
+$ cp settings.json ~/.config/Code/User/
+```
